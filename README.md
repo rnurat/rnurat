@@ -18,15 +18,6 @@
 
 ---
 
-## 📊 GitHub статистика
-
-<div style="display: flex; gap: 1rem; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=rnurat&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnurat&layout=compact&theme=radical" width="48%" />
-</div>
-
----
-
 ## 📫 Связаться со мной
 
 🌐 [gergov.vercel.app](https://gergov.vercel.app/)  
