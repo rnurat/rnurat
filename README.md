@@ -26,7 +26,6 @@ Yii2, MySQL, Elasticsearch, Python (FastAPI, Alembic, SQLAlchemy), Vue/React, Wo
 ---
 
 ### 📫 Контакты
-- 🌐 [gergov.vercel.app](https://gergov.vercel.app/)
 - 💬 Telegram: [@gergov_murat](https://t.me/gergov_murat)
 - 👀 GitHub: [rnurat](https://github.com/rnurat) (ты здесь)
 - 📧 m4rat.gergov@gmail.com
